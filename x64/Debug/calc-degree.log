@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Ant\Desktop\Programming\Projects\2023\calc-degree\calc-degree\main.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  calc-degree.vcxproj -> C:\Users\Ant\Desktop\Programming\Projects\2023\calc-degree\x64\Debug\calc-degree.exe
